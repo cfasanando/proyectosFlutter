@@ -28,7 +28,7 @@ pubspec.lock
 *.sqlite
 
 # Archivos específicos de Flutter en tu proyecto
-notas_simples/windows/flutter/ephemeral/
+!notas_simples/windows/flutter/ephemeral/
 notas_simples/macos/Flutter/ephemeral/
 notas_simples/linux/flutter/ephemeral/
 notas_simples/android/.gradle/
