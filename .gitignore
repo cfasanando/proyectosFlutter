@@ -1,0 +1,40 @@
+# Archivos y carpetas generados automáticamente por Flutter y Dart
+**/.dart_tool/
+**/.build/
+**/windows/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/android/.gradle/
+**/android/app/build/
+**/ios/Pods/
+**/build/
+pubspec.lock
+
+# Archivos temporales de sistema operativo/IDE
+*.iml
+.idea/
+*.swp
+.DS_Store
+*.class
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.swo
+*.swp
+*.sql
+*.sqlite
+
+# Archivos específicos de Flutter en tu proyecto
+notas_simples/windows/flutter/ephemeral/
+notas_simples/macos/Flutter/ephemeral/
+notas_simples/linux/flutter/ephemeral/
+notas_simples/android/.gradle/
+notas_simples/android/app/build/
+notas_simples/ios/Pods/
+notas_simples/.dart_tool/
+notas_simples/build/
+notas_simples/pubspec.lock
+
